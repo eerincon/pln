@@ -1,2 +1,2 @@
-# pln
-Entrega de TPs para Procesamiento de Lenguaje Natural CEIA
+# Procesamiento de Lenguaje Natural CEIA
+Entrega de TPs para PNL CEIA
