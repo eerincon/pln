@@ -44,7 +44,7 @@ Este proyecto incluye una colección de desafíos prácticos centrados en el pro
 ## **Desafio_4.ipynb**:
 ![Chatbot](./assets/chatbot.png)
   - **Título**: LSTM Bot QA
-  - **Descripción**: Creación de un modelo de chatbot de preguntas y respuestas utilizando redes neuronales LSTM, para manejar preguntas en lenguaje natural.
+  - **Descripción**: Creación de un modelo de chatbot de preguntas y respuestas utilizando redes neuronales LSTM dentro de una arquitectura de encoder-decoder, para manejar preguntas en lenguaje natural.
 
 ## **Desafio_5.ipynb**:
 ![Sentiment analysis](./assets/sentiment-analysis.jpeg)
