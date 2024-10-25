@@ -32,8 +32,8 @@ Este proyecto incluye una colección de desafíos prácticos centrados en el pro
   - **Descripción**: Se crean embeddings personalizados utilizando la biblioteca Gensim, examinando diversas maneras de representar palabras en un espacio vectorial.
 
 ## **Desafio_3**:
-## **Desafio_3_word.ipynb**:
 ![Tokenization](./assets/tokens.jpeg)
+## **Desafio_3_word.ipynb**:
   - **Título**: Modelo de lenguaje con tokenización por palabras
   - **Descripción**: Implementación de un modelo de lenguaje utilizando tokenización por palabras, entrenado para predecir la siguiente secuencia en una cadena de texto. Se deja modelo entrenado para ser comprobado.
 
