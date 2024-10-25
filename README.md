@@ -27,7 +27,7 @@ Este proyecto incluye una colección de desafíos prácticos centrados en el pro
   - **Descripción**: Este jupyter notebook aborda la vectorización de texto mediante técnicas como TF-IDF y desarrolla un modelo de clasificación Naïve Bayes para categorizar textos del dataset 20 newsgroups.
 
 ## **Desafio_2.ipynb**:
-![Word embeddings](./assets/embedings.jpg)
+![Word embeddings](./assets/embeddings.jpg)
   - **Título**: Custom embeddings con Gensim
   - **Descripción**: Se crean embeddings personalizados utilizando la biblioteca Gensim, examinando diversas maneras de representar palabras en un espacio vectorial.
 
